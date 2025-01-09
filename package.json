@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@huggingface/inference": "^2.8.1",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^2.7.0",
+    "openai": "^4.77.4",
+    "punycode": "^2.3.1"
+  }
+}
